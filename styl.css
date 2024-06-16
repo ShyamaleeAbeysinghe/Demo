@@ -1,0 +1,110 @@
+#heading{
+    
+    color: rgb(9, 204, 230);
+    text-align: center;
+    font-size: 70px
+    
+
+}
+
+
+.even{
+    
+    color: white; 
+    text-align: justify;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    margin: px;
+
+}
+#heading3{
+    background-color: white(23, 250, 250);
+    color: rgb(96, 28, 204);
+    text-align: center;
+    font-size: 40px
+
+}
+#heading2{
+    background-color: white(23, 250, 250);
+    color: rgb(18, 172, 13);
+    
+    font-size: 50px
+
+}
+.btn-login{
+    background-color: rgb(25, 87, 219);
+    pad: 10px;
+    color: black;
+    font-size: large;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn-login:hover{
+    background-color: rgb(16, 158, 194);
+}
+
+.btn-login:active{
+    background-color: rgb(66, 14, 209);
+}
+.odd{
+    
+    color: white; 
+    text-align: justify;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    margin: px;
+
+}
+ body{
+
+    background-image: url(https://t4.ftcdn.net/jpg/02/46/03/11/360_F_246031122_5Ii8HBVa1buTy9V1bM3IAXZN9GD8hoyd.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+} 
+
+.box1{
+    position: relative;
+    left: 50px;
+    top: 50px;
+
+    background-color: white;
+    color: aliceblue;
+    width: 50px;
+    height: 50px;
+
+}
+
+.box2{
+    
+    
+    background-color: rgb(192, 48, 48);
+    color: aliceblue;
+    width: 50px;
+    height: 50px;
+    left: 50px;
+    right: 50px;
+}
+
+/*.pic3{
+    position: absolute;
+    float: right;
+    margin-right: 0px;
+    margin-left: auto;    
+}*/
+
+.pic2{
+    display: inline-block;
+
+}
+
+
